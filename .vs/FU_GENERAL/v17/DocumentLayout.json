@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDF566A-96A6-43F3-ABDD-F003B9BBE86F}|semana1_py\\semana1_py.pyproj|C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\semana1_py\\semana1_py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FDF566A-96A6-43F3-ABDD-F003B9BBE86F}|semana1_py\\semana1_py.pyproj|solutionrelative:semana1_py\\semana1_py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C72086-5AE3-460B-B9D1-5F201AA68574}|SEMANA1-C#\\SEMANA1-C#.csproj|c:\\users\\upn\\desktop\\semana 3\\fu_general\\semana1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C72086-5AE3-460B-B9D1-5F201AA68574}|SEMANA1-C#\\SEMANA1-C#.csproj|solutionrelative:semana1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "semana1_py.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\semana1_py\\semana1_py.py",
+              "RelativeDocumentMoniker": "semana1_py\\semana1_py.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\semana1_py\\semana1_py.py",
+              "RelativeToolTip": "semana1_py\\semana1_py.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-05T13:01:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\SEMANA1-C#\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA1-C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\semana 3\\FU_GENERAL\\SEMANA1-C#\\Program.cs",
+              "RelativeToolTip": "SEMANA1-C#\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:41:45.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
